@@ -24,6 +24,9 @@ namespace GC_BonusLab6_StudentScores
                 int score = Validator.getIntWithinRange(1,100);
                 list[i] = new Student(firstName, lastName, score);
             }
+          
+            Array.Sort(list);
+                      
             foreach (Student s in list)
             {
                 Console.WriteLine(s.LastName + ", " + s.FirstName + ": " + s.Score);
