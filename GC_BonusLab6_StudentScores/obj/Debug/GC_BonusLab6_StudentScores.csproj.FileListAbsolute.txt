@@ -1,0 +1,6 @@
+c:\users\peter\onedrive\documents\visual studio 2015\Projects\GC_BonusLab6_StudentScores\GC_BonusLab6_StudentScores\bin\Debug\GC_BonusLab6_StudentScores.exe.config
+c:\users\peter\onedrive\documents\visual studio 2015\Projects\GC_BonusLab6_StudentScores\GC_BonusLab6_StudentScores\bin\Debug\GC_BonusLab6_StudentScores.exe
+c:\users\peter\onedrive\documents\visual studio 2015\Projects\GC_BonusLab6_StudentScores\GC_BonusLab6_StudentScores\bin\Debug\GC_BonusLab6_StudentScores.pdb
+c:\users\peter\onedrive\documents\visual studio 2015\Projects\GC_BonusLab6_StudentScores\GC_BonusLab6_StudentScores\obj\Debug\GC_BonusLab6_StudentScores.csprojResolveAssemblyReference.cache
+c:\users\peter\onedrive\documents\visual studio 2015\Projects\GC_BonusLab6_StudentScores\GC_BonusLab6_StudentScores\obj\Debug\GC_BonusLab6_StudentScores.exe
+c:\users\peter\onedrive\documents\visual studio 2015\Projects\GC_BonusLab6_StudentScores\GC_BonusLab6_StudentScores\obj\Debug\GC_BonusLab6_StudentScores.pdb
